@@ -1,3 +1,5 @@
+import { initCustomTraceSubscriber } from "next/dist/build/swc/generated-native";
+import { Libre_Bodoni } from "next/font/google";
 import type { Config } from "tailwindcss";
 
 const config: Config = {
